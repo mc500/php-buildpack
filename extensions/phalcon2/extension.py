@@ -6,8 +6,8 @@ _log = logging.getLogger('phalcon2')
 
 # Extension Methods
 # step1
-def configure(ctx):
-    pass
+#def configure(ctx):
+#    pass
 
 # step5
 def preprocess_commands(ctx):
